@@ -14,8 +14,11 @@
 
 
 ## Для запуска
-```cs
-dotnet build && dotnet run
+```zsh
+dotnet build
+```
+```zsh
+dotnet run
 ```
 
 ## Пример работы
